@@ -1,5 +1,5 @@
-let password_use = "123"
-let email_user = "123"
+let password_use = "1"
+let email_user = "1"
 switch(password_nickname , email_user){
   case password:
     alert("Добро пожаловать\n Ваш пароль " + password_use)
