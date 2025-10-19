@@ -2,5 +2,9 @@ const users = [
   {
     "email": "1",
     "password": "1"
+  },
+  {
+    "email": "2",
+    "password": "31"
   }
 ];
