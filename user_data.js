@@ -23,3 +23,17 @@ switch(password_nickname , email_user){
   default:
     alert("у вас что-то не так")
 }
+
+
+let password_use = "12345678"
+let email_user = "176@gmail.com"
+switch(password_nickname , email_user){
+  case password:
+    alert("Добро пожаловать\n Ваш пароль " + password_use)
+    break
+  case email_user:
+    alert("Ваша почта " + email_user)
+    break
+  default:
+    alert("у вас что-то не так")
+}
